@@ -38,14 +38,14 @@ Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel
 <img width="1552" height="984" alt="Image" src="https://github.com/user-attachments/assets/c95da47b-969b-42ae-b89a-1640a7161cc6" />
 
 
-B. Halaman Gallery
+### B. Halaman Gallery
 
 Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.
 
 <img width="1567" height="982" alt="Image" src="https://github.com/user-attachments/assets/4d45c7c8-8666-47de-9a48-9499677ff779" />
 
 
-C. Halaman About
+### C. Halaman About
 
 Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.
 
@@ -54,21 +54,21 @@ Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profil
 
 ## **User Interface Halaman Admin**
 
-A. Halaman Login
+### A. Halaman Login
 
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 
 <img width="1816" height="1012" alt="Image" src="https://github.com/user-attachments/assets/a786264f-8a89-45fb-81f4-fc798c7a9839" />
 
 
-B. Halaman Beranda
+### B. Halaman Beranda
 
 Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
 
 <img width="1882" height="989" alt="Image" src="https://github.com/user-attachments/assets/1cb322fa-8c09-400e-b51c-9b14785d33aa" />
 
 
-C. Halaman Kelola Artikel
+### C. Halaman Kelola Artikel
 
 Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
 
@@ -77,7 +77,7 @@ Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampi
 <img width="1667" height="747" alt="Image" src="https://github.com/user-attachments/assets/249935e8-9424-4d0a-b3c9-4ab68655e7be" />
 
 
-D. Halaman Kelola Gallery
+### D. Halaman Kelola Gallery
 
 Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
 
@@ -86,7 +86,7 @@ Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampi
 <img width="1459" height="837" alt="Image" src="https://github.com/user-attachments/assets/df54a4b7-b777-4176-87a0-0f38fc2ce024" />
 
 
-E. Halaman About
+### E. Halaman About
 
 Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.
 
@@ -97,20 +97,22 @@ Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Ta
 
 
 ## **PENAMBAHAN FITUR BARU**
-1. Komentar Artikel
+### 1. Komentar Artikel
    
    <img width="1805" height="994" alt="Image" src="https://github.com/user-attachments/assets/25f989df-d09d-4c98-bf27-85f896f35f0a" />
-   moderasi komentar
+   
+   #### moderasi komentar
+   
 <img width="1497" height="981" alt="Image" src="https://github.com/user-attachments/assets/b1e70f81-9cb7-4e9d-9af2-59b97f8491d2" />
 
    
-3. Fitur Pencarian
+### 3. Fitur Pencarian
    
    <img width="867" height="623" alt="Image" src="https://github.com/user-attachments/assets/814c36f5-2b8e-465d-9a41-73a32516c932" />
 <img width="1343" height="547" alt="Image" src="https://github.com/user-attachments/assets/583886e5-31d4-4e33-9985-0dee034909a1" />
 
    
-5. Tampilan Dark Mode
+### 5. Tampilan Dark Mode
    
    <img width="1794" height="994" alt="Image" src="https://github.com/user-attachments/assets/0dd0fbf7-a61d-4222-872b-8ae75e4a08f0" />
 <img width="1890" height="996" alt="Image" src="https://github.com/user-attachments/assets/673b21b3-d57a-43e9-96a9-309477e82458" />
