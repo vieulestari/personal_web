@@ -24,13 +24,14 @@ mengelola konten.
 3. Frontend : Tailwind CSS, HTML
 4. Server Side : Apache / XAMPP
 
-**Struktur Folder**
+## **Struktur Folder**
 
 <img width="521" height="1010" alt="Image" src="https://github.com/user-attachments/assets/f490df15-36f5-4b48-a565-722d76f1ae99" />
 
-**User Interface Halaman Publik**
 
-A. Halaman Home / Artikel
+## **User Interface Halaman Publik**
+
+### A. Halaman Home / Artikel
 
 Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.
 
@@ -51,7 +52,7 @@ Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profil
 <img width="1822" height="963" alt="Image" src="https://github.com/user-attachments/assets/35a33779-8c33-4737-92cd-02a9e797a3d5" />
 
 
-**User Interface Halaman Admin**
+## **User Interface Halaman Admin**
 
 A. Halaman Login
 
@@ -95,7 +96,7 @@ Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Ta
 
 
 
-**PENAMBAHAN FITUR BARU**
+## **PENAMBAHAN FITUR BARU**
 1. Komentar Artikel
    
    <img width="1805" height="994" alt="Image" src="https://github.com/user-attachments/assets/25f989df-d09d-4c98-bf27-85f896f35f0a" />
